@@ -1,0 +1,32 @@
+# Visual Studio
+.vs/
+*.vsidx
+*.v2
+*.suo
+*.user
+*.cache
+*.log
+bin/
+obj/
+Debug/
+Release/
+x64/
+x86/
+packages/
+
+# SQL Server Data Tools
+*.sqlproj.user
+*.dbmdl
+*.jfm
+*.pfx
+*.publishsettings
+
+# Business Intelligence projects
+*.rdl.data
+*.bim.layout
+*.bim_*.settings
+*.rptproj.bak
+
+# Temporary files
+*.tmp
+*.temp
