@@ -14,6 +14,11 @@ x64/
 x86/
 packages/
 
+# Analysis Services - Archivos compilados/generados
+*.database
+*.deploymenttargets
+*.asdatabase
+
 # SQL Server Data Tools
 *.sqlproj.user
 *.dbmdl
